@@ -20,7 +20,7 @@ Follow these steps to install ServerSleuth:
 
 2. **Navigate to ServerSleuth Directory:**
    ```bash
-  cd serversleuth
+   cd serversleuth
 
 3. **Install Dependencies:**
     ```bash
@@ -48,3 +48,12 @@ Operate ServerSleuth with responsible and ethical usage. Adhere to security best
 
 ## How to Contribute
 We welcome contributions and feedback to improve ServerSleuth. Feel free to report issues, share experiences, or contribute to its development.
+
+## License
+ServerSleuth is released under the [MIT License](https://opensource.org/license/mit/).
+
+## About the Author
+- 👋 Hi, I’m Ravindra Dagale | Information Security | Security Researcher
+- 📫 How to reach me [Instagram](https://www.instagram.com/Infosec97/) | [YouTube](https://www.youtube.com/c/RavindraDagale)
+
+With ServerSleuth at your disposal, you're well-equipped to bolster your web security defenses. Start your journey towards a more resilient web environment today!
